@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/de/c7/11/dec71168ab2c3736b7c203392fa498ff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    
+     
+    height: 100vh;
+    margin: 0;
+
+}
+ 
+.cantainer{
+    color: white;
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 10vh;
+    padding-top: 40px;
+    line-height: 30px;
+
+}
+.cantainer h2{
+    padding: 10px;
+}
+span{
+    font-size: 40px;
+    color: orange;
+}
+.rose button{
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 20px;
+    color: crimson;
+    border-radius: 20px;
+    border:2px solid black;
+    margin-top: 10px;
+
+}
+.rose button:hover{
+    background-color: rgb(217, 47, 255);
+    color: aqua;
+}
+ 

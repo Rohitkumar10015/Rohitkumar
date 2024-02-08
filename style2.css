@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(third.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    border: 3px solid red;
+
+}
+span{
+    color: red;
+    font-size: 40px;
+}
+.n1{
+    color: crimson;
+}
+.cantainer{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    padding-top: 20px;
+    line-height: 30px;
+
+}
